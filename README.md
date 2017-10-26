@@ -1,0 +1,2 @@
+# stockpredict
+Daily stock predictions
